@@ -171,23 +171,6 @@ wrangler dev
 
 MIT License
 
-## 🙏 致谢
-
-- Microsoft Edge TTS 提供语音合成服务
-- Cloudflare Workers 提供无服务器计算平台
-- 参考项目: https://github.com/pyvideotrans/tts-pyvideotrans2
-
-## 📞 联系我们
-
-关注公众号「一只会飞的旺旺」获取更多 AI 工具和技术分享：
-
-- 最新 AI 工具推荐和使用教程
-- 前沿技术解析和实战案例  
-- 独家资源和工具源码分享
-- 技术问题答疑和交流社群
-
----
-
-
 **让文字开口说话，让创意更有声音！** 🎵
+
 
