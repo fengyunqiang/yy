@@ -598,11 +598,11 @@ const HTML_PAGE = `
                 success.style.display = 'block';
                 
                 // 显示公众号推广组件
-                setTimeout(() => {
-                    const wechatPromotion = document.getElementById('wechatPromotion');
-                    wechatPromotion.style.display = 'block';
-                    wechatPromotion.classList.add('fade-in');
-                }, 1000);
+                // setTimeout(() => {
+                //     const wechatPromotion = document.getElementById('wechatPromotion');
+                //     wechatPromotion.style.display = 'block';
+                //     wechatPromotion.classList.add('fade-in');
+                // }, 1000);
                 
             } catch (err) {
                 loading.style.display = 'none';
@@ -931,4 +931,5 @@ function dateFormat() {
     const formattedDate = (new Date()).toUTCString().replace(/GMT/, "").trim() + " GMT";
     return formattedDate.toLowerCase();
 }
+
 
